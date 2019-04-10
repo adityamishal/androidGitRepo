@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/people"
+        android:icon="@drawable/ic_view_list_black_24dp"
+        android:title="List All"></item>
+
+    <item android:id="@+id/feedback"
+        android:icon="@drawable/ic_feedback_black_24dp"
+        android:title="Feedback"></item>
+
+    <item android:id="@+id/phone"
+        android:icon="@drawable/ic_phone_android_black_24dp"
+        android:title="Phone"></item>
+
+    <item android:id="@+id/mails"
+        android:icon="@drawable/ic_mail_outline_black_24dp"
+        android:title="Mails"></item>
+</menu>
